@@ -1,0 +1,11 @@
+url: http://www.pianopetter.com
+email: hello@pianopetter.com
+
+permalink: pretty
+
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: "default"
