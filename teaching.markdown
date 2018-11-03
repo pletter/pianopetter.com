@@ -22,8 +22,6 @@ Playing music is about enjoyment, and having fun being you. We don’t do test o
 
 We are all musically gifted with ears we use day in and day out, we just need to activate them for playing. I believe when we give our ears time to taste which notes we like, everyone has the ability to build their own musical universe and language. 
 
-I have a masters degree in piano and music performance from the respected Rhythmic Music Conservatory in Copenhagen, and during the last 5 years I have been lucky enough to have been touring and teaching music in Sweden, Denmark, Poland, Nigeria, South Africa and Israel/Palestine. Now I’m living in Newport where except for playing concerts and teaching, I’m also making youtube videos about composing music. 
-
 All of my methods for learning piano are designed to work for all ages and levels.
 
 If you wanna learn to play piano – better call Petter!!! 
