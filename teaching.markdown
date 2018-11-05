@@ -16,6 +16,8 @@ title: Music teaching
     
 ## Piano tutoring
 
+<iframe width="800" height="450" src="https://www.youtube.com/embed/2-fFQjIffrs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 I teach piano, composing and improvising from my home in Maindee, Newport. As my piano student, you will be learning your favorite songs, as well as learning to improvise and play solo, and writing your own tunes. 
 
 Playing music is about enjoyment, and having fun being you. We don’t do test or examinations, but together we make a plan, and do our best to reach your goals. 
