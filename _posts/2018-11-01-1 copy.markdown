@@ -1,8 +1,0 @@
----
-title: 'Figuring it out'
-summary: 'Jag gjorde en video om bajs'
----
-
-I made a video about making a video, as usual, but I wanted it to be about composing. 
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/nP-vN3OaQqo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
