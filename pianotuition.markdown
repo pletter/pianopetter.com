@@ -48,12 +48,12 @@ If you wanna learn to play piano – better call Petter!
 </h2>
 
 <div id="citater">
-    <div class="citat">
-    <em>“Petter is a very focused and present teacher, who has led me through some of my most hardcore obstacles in my music with ease, and I can strongly recommend him to everyone that wants to get through with music. He’s is crazy, brave and it’s easy to feel that all he wishes for is for me to succeed!”</em> - Johan Ransby Granberg
+    <div class="citat" markdown="1">
+<em>“Petter is a very focused and present teacher, who has led me through some of my most hardcore obstacles in my music with ease, and I can strongly recommend him to everyone that wants to get through with music. He’s is crazy, brave and it’s easy to feel that all he wishes for is for me to succeed!”</em> - Johan Ransby Granberg
     
-    </div>
-<div class="citat">
-<em> "I feel very fortunate to have found Petter! His teaching is creative, encouraging and very inspirational. Each week I come away feeling totally amazed by what i have achieved in the lesson. I highly recommend him!"</em> - Carmela Gianfagna
+</div>
+<div class="citat" markdown="1">
+<em>"I feel very fortunate to have found Petter! His teaching is creative, encouraging and very inspirational. Each week I come away feeling totally amazed by what i have achieved in the lesson. I highly recommend him!"</em> - Carmela Gianfagna
 
 </div>
 
