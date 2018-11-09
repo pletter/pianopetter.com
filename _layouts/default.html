@@ -227,11 +227,10 @@
     }
     
     .blogpost {
-        margin-bottom:60px;
+        margin-bottom:120px;
     }
     
     .contactlink {
-        font-size:px;
         font-weight:700;
         margin:0px 0px;
         padding-right:10px;
@@ -269,7 +268,7 @@
         text-align:left;
     }
     .projectclass {
-        margin-bottom:60px;
+        margin-bottom:150px;
     }
     
     .nohorhover:hover {
@@ -351,7 +350,14 @@
         </div>
         <img src="/images/beard2.jpg" width="800">
           
-           
+           <nav id="newnav">
+                          <ul id="flexnav">
+                              <a class="navbutton {% if page.title == nil %}active{% endif %}" href="/"><li class="colorett leftborder"><span class="navbuttontext">Piano Blog</span></li></a>
+                              <a class="navbutton {% if page.title == 'Piano Tuition' %}active{% endif %}" href="/pianotuition"><li class="colortva"><span class="navbuttontext whitetext">Piano Tuition</span></li></a>
+                              <a class="navbutton {% if page.title == 'Piano Projects' %}active{% endif %}" href="/pianoprojects"><li class="colorfem"><span class="navbuttontext">Piano Projects</span></li></a>
+                              <a class="navbutton {% if page.title == 'Press and Contact' %}active{% endif %}" href="/contactandpress"><li class="colorfyra"><span class="navbuttontext whitetext">Press and contact</span></li></a>
+                          </ul>
+                      </nav>
                
                
        

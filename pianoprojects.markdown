@@ -2,33 +2,10 @@
 title: Piano Projects
 ---
 
-<nav id="newnav">
-               <ul id="flexnav">
-                   <a class="navbutton " href="/"><li class="colorett leftborder"><span class="navbuttontext">Piano Blog</span></li></a>
-                   <a class="navbutton " href="/pianotuition"><li class="colortva"><span class="navbuttontext whitetext">Piano Tuition</span></li></a>
-                   <a class="navbutton active" href="/pianoprojects"><li class="colorfem"><span class="navbuttontext">Piano Projects</span></li></a>
-                   <a class="navbutton" href="/contactandpress"><li class="colorfyra"><span class="navbuttontext whitetext">Press and contact</span></li></a>
-               </ul>
-           </nav>
-           
-<h2></h2>
-<div id="tableofcontents">
-<ul class="contentsul">
-    
-    <a class="navbutton nohorhover" href="/pianoprojects/#nana"><li class="projectli colortett ">Nana Rashid and Petter Rylén Duo</li> </a>
-    <a class="navbutton nohorhover" href="/pianoprojects/#trio"><li class="projectli colortva whitetext ">Trio with Kresten Osgood and Casper Nyvang Rask</li></a>
-    <a class="navbutton nohorhover" href="/pianoprojects/#kilonsele"><li class="projectli colorett  ">Kilonsele</li></a>
-    <a class="navbutton nohorhover" href="/pianoprojects/#videoblogs"><li class="projectli colortva whitetext">Video blogs</li></a>
-    <a class="navbutton nohorhover" href="/pianoprojects/#original"><li class="projectli colorett ">The Original Trio</li></a>
-    <a class="navbutton nohorhover" href="/pianoprojects/#keps"><li class="projectli colortva whitetext">Keps</li></a>
-    <a class="navbutton nohorhover" href="/pianoprojects/#random"><li class="projectli colorett">Random</li></a>
-</ul>
-</div>
-
 <div id="projectavsnitt">
 
 <div class="projectclass" id="nana">
-    <h2>Nana Rashid & Petter Rylén Duo</h2>
+<h2>Nana Rashid & Petter Rylén Duo</h2>
 <div markdown="1">
 During the last year I have been playing extensively with <strong>Danish jazz singer Nana Rashid</strong>, and our concerts have been well recieved: 
 
