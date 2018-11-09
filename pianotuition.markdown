@@ -46,7 +46,6 @@ If you wanna learn to play piano – better call Petter!
 </div>
 <div class="citat" markdown="1">
 <em>"I feel very fortunate to have found Petter! His teaching is creative, encouraging and very inspirational. Each week I come away feeling totally amazed by what i have achieved in the lesson. I highly recommend him!"</em> - Carmela Gianfagna
-
 </div>
 
 </div>
