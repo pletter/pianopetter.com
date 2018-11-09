@@ -62,7 +62,7 @@ I started making video blogs of my <strong>daily life</strong> in 2016. Here are
 <div class="projectclass" id="keps">
     <h2>Keps</h2>
 <div markdown="1">
-Keps is my high-school friends hiphop/pop star dream. We had an <strong>immense potential</strong> but didn't quite make it all the way. Nevertheless, we did a lot of <a href="http://keps.github.io">fun projects</a> together, such as a podcast, a comic strip, a crowdfunding campaign and much more. And a music video: 
+Keps is my high-school friends hiphop/pop star dream. We had an <strong>immense potential</strong> but didn't quite make it all the way. Nevertheless, we did a lot of <a href="https://keps.github.io">fun projects</a> together, such as a podcast, a comic strip, a crowdfunding campaign and much more. And a music video: 
 </div>
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/1CRqNPb-XRI" frameborder="0" allowfullscreen></iframe>
@@ -84,7 +84,7 @@ I was part of a band called <strong>"The Great International Band Blyblublible"<
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/q_ZByiVn2nA" frameborder="0" allowfullscreen></iframe>
 
-And last but not least – possibly <strong>my biggest Youtube success to date</strong> (altough according to <a href="http://www.rightthisminute.com/video/rtmtv-manscaping-ideas-we-dont-recommend">this viral link tv-show </a> in the US it was my biggest failure)!
+And last but not least – possibly <strong>my biggest Youtube success to date</strong> (altough according to <a href="https://www.rightthisminute.com/video/rtmtv-manscaping-ideas-we-dont-recommend">this viral link tv-show </a> in the US it was my biggest failure)!
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/ND3PcCFfgm4" frameborder="0" allowfullscreen></iframe>
 
