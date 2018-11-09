@@ -7,7 +7,7 @@ title: Piano Tuition
     
 <iframe width="800" height="450" src="https://www.youtube.com/embed/2-fFQjIffrs?controls=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-I teach piano from my home in <strong>Maindee, Newport.</strong> 
+I teach piano lessons from my home in <strong>Maindee, Newport.</strong> 
 
 Playing music is about enjoyment, and <strong>having fun being you</strong>! We don’t do test or examinations, but together we <strong>make a plan</strong>, and do our best to reach <strong>your goals.</strong> 
 
