@@ -84,7 +84,7 @@ I was part of a band called <strong>"The Great International Band Blyblublible"<
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/q_ZByiVn2nA" frameborder="0" allowfullscreen></iframe>
 
-And last but not least – possibly <strong>my biggest Youtube success to date</strong> (altough according to <a href="http://www.rightthisminute.com/video/rtmtv-manscaping-ideas-we-dont-recommend">this viral link tv-show </a> in the US it was my biggest failure.
+And last but not least – possibly <strong>my biggest Youtube success to date</strong> (altough according to <a href="http://www.rightthisminute.com/video/rtmtv-manscaping-ideas-we-dont-recommend">this viral link tv-show </a> in the US it was my biggest failure)!
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/ND3PcCFfgm4" frameborder="0" allowfullscreen></iframe>
 
