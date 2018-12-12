@@ -16,10 +16,9 @@ title: Press and Contact
 <em>“Petter is one of the most brilliant pianists of his generation, and yet a very well kept secret. He can go anywhere.. He is a mix between Ahmad Jamal, Keith Jarret and something you never heard before in your life.”</em> - Kresten Osgood 
 </div>
 
-<div>
+<div style="display:none;">
 <img src="/images/press1.jpeg" width="800">
 <img src="/images/press2.jpeg" width="800">
 <img src="/images/press3.jpeg" width="800">
 <img src="/images/press4.jpeg" width="800">
 </div>
-<p>Pictures by the fenomenal Pontus Granström.</p>
