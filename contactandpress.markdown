@@ -7,7 +7,7 @@ title: Press and Contact
 
 <div class="kontaktdiv">
 
-<a class="contactlink" href="mailto:hello@pianopetter.com"><strong>hello@pianopetter.com</strong></a> 
+<a class="contactlink" href="mailto:hello@pianopetter.com"><strong>petter.rylen@gmail.com</strong></a> 
 <br>
 <a class="contactlink" href="tel:00447453207374"><strong>+44 7453 20 7374</strong></a>
 </div>
